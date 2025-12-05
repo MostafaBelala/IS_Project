@@ -17,6 +17,7 @@ public class Calculator extends javax.swing.JFrame {
      */
     public Calculator() {
         initComponents();
+        System.out.print("Done");
         this.setLocationRelativeTo(null);
     }
 
